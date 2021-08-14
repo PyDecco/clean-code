@@ -1,0 +1,20 @@
+{
+  "name": "clean-code",
+  "version": "1.0.0",
+  "description": "Criação de uma API completa com Typescript utilizando TDD, Clean Architecture, Design Patterns e SOLID.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PyDecco/clean-code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PyDecco/clean-code/issues"
+  },
+  "homepage": "https://github.com/PyDecco/clean-code#readme"
+}
